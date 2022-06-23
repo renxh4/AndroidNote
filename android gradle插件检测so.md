@@ -102,19 +102,19 @@
 ```java
 ...
 
-[mmm] /Users/momo/Desktop/project/MatchMakerAndroid/app/src/main/res/drawable-xxhdpi/pay_success_bg.png  size = 262KB
+[mmm] ""/app/src/main/res/drawable-xxhdpi/pay_success_bg.png  size = 262KB
 [mmm] 压缩前 size =  262
 [mmm] 压缩后 size =  56
 [mmm] copy 完成
-[mmm] /Users/momo/Desktop/project/MatchMakerAndroid/app/src/main/res/drawable-xxhdpi/bg_qr_share.png  size = 582KB
+[mmm] ""/app/src/main/res/drawable-xxhdpi/bg_qr_share.png  size = 582KB
 [mmm] 压缩前 size =  582
 [mmm] 压缩后 size =  155
 [mmm] copy 完成
-[mmm] /Users/momo/Desktop/project/MatchMakerAndroid/app/src/main/res/drawable-xxhdpi/bg_every_day_pick.png  size = 119KB
+[mmm] ""/app/src/main/res/drawable-xxhdpi/bg_every_day_pick.png  size = 119KB
 [mmm] 压缩前 size =  119
 [mmm] 压缩后 size =  32
 [mmm] copy 完成
-[mmm] /Users/momo/Desktop/project/MatchMakerAndroid/app/src/main/res/drawable-xxhdpi/bg_secretary_dialog.png  size = 216KB
+[mmm] ""/app/src/main/res/drawable-xxhdpi/bg_secretary_dialog.png  size = 216KB
 [mmm] 压缩前 size =  216
 [mmm] 压缩后 size =  43
 [mmm] copy 完成
@@ -129,23 +129,23 @@
 ...
 
 [mmm] 重复文件
-[mmm] /Users/momo/Desktop/project/MatchMakerAndroid/app/src/main/res/drawable/bg_10dp_chat_white.xml
-[mmm] /Users/momo/Desktop/project/MatchMakerAndroid/app/src/main/res/drawable/bg_luck_telephone_part2.xml
+[mmm] ""/app/src/main/res/drawable/bg_10dp_chat_white.xml
+[mmm] ""/app/src/main/res/drawable/bg_luck_telephone_part2.xml
 [mmm] 重复文件
-[mmm] /Users/momo/Desktop/project/MatchMakerAndroid/app/src/main/res/drawable-xhdpi/random_match_avatar_12.png
-[mmm] /Users/momo/Desktop/project/MatchMakerAndroid/app/src/main/res/drawable-xhdpi/random_match_avatar_15.png
+[mmm] ""/app/src/main/res/drawable-xhdpi/random_match_avatar_12.png
+[mmm] ""/app/src/main/res/drawable-xhdpi/random_match_avatar_15.png
 [mmm] 重复文件
-[mmm] /Users/momo/Desktop/project/MatchMakerAndroid/app/src/main/res/drawable/bg_dialog_bublegumpink.xml
-[mmm] /Users/momo/Desktop/project/MatchMakerAndroid/app/src/main/res/drawable/bg_dialog_negtive_two.xml
+[mmm] ""/app/src/main/res/drawable/bg_dialog_bublegumpink.xml
+[mmm] ""/app/src/main/res/drawable/bg_dialog_negtive_two.xml
 [mmm] 重复文件
-[mmm] /Users/momo/Desktop/project/MatchMakerAndroid/app/src/main/res/drawable/bg_button_redcommon.xml
-[mmm] /Users/momo/Desktop/project/MatchMakerAndroid/app/src/main/res/drawable/bg_button_enable.xml
+[mmm] ""/app/src/main/res/drawable/bg_button_redcommon.xml
+[mmm] ""/app/src/main/res/drawable/bg_button_enable.xml
 [mmm] 重复文件
-[mmm] /Users/momo/Desktop/project/MatchMakerAndroid/app/src/main/res/drawable/bg_fe377f_radius_29dp.xml
-[mmm] /Users/momo/Desktop/project/MatchMakerAndroid/app/src/main/res/drawable/bg_29_shape_fe377f.xml
+[mmm] ""/app/src/main/res/drawable/bg_fe377f_radius_29dp.xml
+[mmm] ""/app/src/main/res/drawable/bg_29_shape_fe377f.xml
 [mmm] 重复文件
-[mmm] /Users/momo/Desktop/project/MatchMakerAndroid/app/src/main/res/drawable-xxhdpi/single_chat_input_ic_audio_unlock.png
-[mmm] /Users/momo/Desktop/project/MatchMakerAndroid/app/src/main/res/drawable-xxhdpi/single_chat_input_ic_audio.png
+[mmm] ""/app/src/main/res/drawable-xxhdpi/single_chat_input_ic_audio_unlock.png
+[mmm] ""/app/src/main/res/drawable-xxhdpi/single_chat_input_ic_audio.png
 [mmm] 此次共找到重复文件 {15}
 
 ```
